@@ -1,3 +1,5 @@
+# yamdb_final
+yamdb_final
 
-# api_yamdb
-api_yamdb
+Badge
+https://github.com/lygerius/yamdb_final/workflows/yamdb/badge.svg
